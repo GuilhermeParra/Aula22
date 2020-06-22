@@ -1,0 +1,13 @@
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\obj\Debug\netcoreapp3.1\Aula22.csprojAssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\obj\Debug\netcoreapp3.1\Aula22.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\obj\Debug\netcoreapp3.1\Aula22.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\obj\Debug\netcoreapp3.1\Aula22.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\bin\Debug\netcoreapp3.1\Aula22.exe
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\bin\Debug\netcoreapp3.1\Aula22.deps.json
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\bin\Debug\netcoreapp3.1\Aula22.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\bin\Debug\netcoreapp3.1\Aula22.runtimeconfig.dev.json
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\bin\Debug\netcoreapp3.1\Aula22.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\bin\Debug\netcoreapp3.1\Aula22.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\obj\Debug\netcoreapp3.1\Aula22.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\obj\Debug\netcoreapp3.1\Aula22.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Aula22\obj\Debug\netcoreapp3.1\Aula22.genruntimeconfig.cache
